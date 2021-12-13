@@ -7,7 +7,7 @@ Whenever one of the nominal combinations is found - flag "_resultFound" is marke
 
 In case no combination was found, exception is thrown after all the calculations in Program.cs
 
-Results are printed in console.
+Results are printed in console. (example : DemoResult.PNG in root folder)
 
 Altough this method is pretty slow (that's why I named it brute force), you may implement another way of calculating result by just creating new class, implementing ICalculator
 and passing your newly created class object to ATM machine creation.
